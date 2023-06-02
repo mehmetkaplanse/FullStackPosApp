@@ -1,6 +1,6 @@
 # Full Stack Pos Application
 
-- **About**: This is a pos application where a business can keep their sales.
+**About**: This is a pos application where a business can keep their sales.
 
 ### Used Technologies
 * Html
